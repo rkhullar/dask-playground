@@ -6,3 +6,4 @@
 4. Generate fake dataframe and perform two read only functions as processes.
 5. Generate fake data with injected probability rules. Perform classification with partial fits.
 6. Generate fake data and add shufted columns based on aggregration.
+7. Compare criteria query on dataset with dask and pandas.
